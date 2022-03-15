@@ -1,0 +1,13 @@
+[core]
+        editor = \"C:\\Users\\aidan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+        longpaths = true
+[filter "lfs"]
+        required = true
+        clean = git-lfs clean -- %f
+        smudge = git-lfs smudge -- %f
+        process = git-lfs filter-process
+[user]
+        name = Aidan Tomcy
+        email = aidantomcy@gmail.com
+[credential]
+        helper = cache
