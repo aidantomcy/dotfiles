@@ -1,0 +1,55 @@
+apps:
+  - 7-Zip
+  - Anaconda3
+  - Brave
+  - Firefox Developer Edition
+  - Git
+  - GitHub Desktop
+  - Node.js
+  - Postman
+  - PowerShell
+  - Spotify
+  - Sublime Text
+  - Windows Terminal
+  - Ubuntu (WSL)
+  - Visual Studio Code
+brave_extensions:
+  - Code Grepper
+  - uBlock Origin
+  - React Developer Tools
+  - Dark Reader
+  - VisBug
+  - Enhanced GitHub
+firefox_extensions:
+  - Code Grepper
+  - uBlock Origin
+  - React Developer Tools
+  - Dark Reader
+  - Lighthouse
+vscode_extensions:
+  - Auto Rename Tag
+  - DotENV
+  - EditorConfig
+  - ES7+ React/Redux/React-Native snippets
+  - ESLint
+  - GitHub Copilot
+  - GitHub Theme
+  - GitLens
+  - JavaScript (ES6) code snippets
+  - Prettier
+  - Python
+  - Remote - WSL
+  - Snyk Security
+  - TabNine
+  - vscode-icons
+sublime_text_plugins:
+  - Babel
+  - Color Highlight
+  - DotENV
+  - EditorConfig
+  - Emmet
+  - FileIcons
+  - JSPrettier
+  - SublimeLinter
+  - Quokka
+  - TabNine
