@@ -1,49 +1,37 @@
 {
   "editor.suggestSelection": "first",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "tabnine.experimentalAutoImports": true,
   "editor.inlineSuggest.enabled": true,
   "github.copilot.enable": {
-    "*": true,
-    "yaml": true,
+    "*": false,
+    "yaml": false,
     "plaintext": true,
-    "markdown": false,
-    "jsonc": true,
-    "python": true
+    "markdown": false
   },
   "vsicons.dontShowNewVersionMessage": true,
-  "editor.fontFamily": "'hack'",
-  "editor.fontLigatures": true,
+  "editor.fontFamily": "hack",
   "editor.bracketPairColorization.enabled": true,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "git.autofetch": true,
   "editor.linkedEditing": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.cursorBlinking": "expand",
   "git.confirmSync": true,
   "editor.wordWrap": "on",
   "svelte.enable-ts-plugin": true,
   "workbench.iconTheme": "vscode-icons",
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
-  "[php]": {
-    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-  },
+  "workbench.colorTheme": "GitHub Dark",
   "[python]": {
     "editor.defaultFormatter": "ms-python.python"
   },
   "terminal.integrated.cursorStyle": "line",
-  "snyk.token": "a41de120-64e7-4833-bc64-fa65ba5fbfdf",
-  "snyk.yesWelcomeNotification": false,
   "css.lint.unknownAtRules": "ignore",
-  "editor.guides.bracketPairsHorizontal": true,
   "terminal.integrated.autoReplies": {
     "Terminate batch job (Y/N)?": "Y\r"
   },
-  "workbench.editor.historyBasedLanguageDetection": true,
   "editor.fontSize": 15,
-  "workbench.colorTheme": "GitHub Dark",
-  "editor.tokenColorCustomizations": {
-    "textMateRules": []
-  },
-  "vim.useSystemClipboard": true
+  "snyk.yesWelcomeNotification": false,
+  "python.formatting.provider": "black"
 }
