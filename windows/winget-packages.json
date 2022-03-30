@@ -1,0 +1,77 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2022-03-30T13:15:10.261-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "7zip.7zip"
+        },
+        {
+          "PackageIdentifier": "Anaconda.Anaconda3"
+        },
+        {
+          "PackageIdentifier": "BraveSoftware.BraveBrowser"
+        },
+        {
+          "PackageIdentifier": "Canonical.Ubuntu"
+        },
+        {
+          "PackageIdentifier": "Mozilla.Firefox.DeveloperEdition"
+        },
+        {
+          "PackageIdentifier": "GitHub.GitHubDesktop"
+        },
+        {
+          "PackageIdentifier": "Git.Git"
+        },
+        {
+          "PackageIdentifier": "Microsoft.Edge"
+        },
+        {
+          "PackageIdentifier": "Microsoft.EdgeWebView2Runtime"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WingetCreate"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsTerminal"
+        },
+        {
+          "PackageIdentifier": "Microsoft.OneDrive"
+        },
+        {
+          "PackageIdentifier": "Postman.Postman"
+        },
+        {
+          "PackageIdentifier": "ApacheFriends.Xampp"
+        },
+        {
+          "PackageIdentifier": "OpenJS.NodeJS.LTS"
+        },
+        {
+          "PackageIdentifier": "Microsoft.dotnetRuntime.5-x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsADK"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudioCode"
+        },
+        {
+          "PackageIdentifier": "GitHub.cli"
+        },
+        {
+          "PackageIdentifier": "Microsoft.dotnetRuntime.3-x64"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://winget.azureedge.net/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ],
+  "WinGetVersion": "1.2.10271"
+}
