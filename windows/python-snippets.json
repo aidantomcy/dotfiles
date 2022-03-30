@@ -1,0 +1,7 @@
+{
+  "If main": {
+    "prefix": "ifmain",
+    "body": ["if __name__ == \"__main__\":\n\t$main()"],
+    "description": "If main"
+  }
+}
