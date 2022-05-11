@@ -1,8 +1,9 @@
 {
-  "font_face": "fantasque sans mono",
-  "font_size": 18,
-  "caret_style": "blinking",
+  "font_face": "Hack",
+  "font_size": 15,
+  "caret_style": "blink",
   "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
   "theme": "Adaptive.sublime-theme",
-  "auto_complete": true
+  "auto_complete": true,
+  "translate_tabs_to_spaces": true
 }
