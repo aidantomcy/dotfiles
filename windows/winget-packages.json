@@ -1,11 +1,17 @@
 {
   "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
-  "CreationDate": "2022-03-30T13:15:10.261-00:00",
+  "CreationDate": "2022-05-11T20:11:02.298-00:00",
   "Sources": [
     {
       "Packages": [
         {
+          "PackageIdentifier": "Microsoft.VisualStudio.2022.BuildTools"
+        },
+        {
           "PackageIdentifier": "7zip.7zip"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudio.2022.Community"
         },
         {
           "PackageIdentifier": "Anaconda.Anaconda3"
@@ -14,10 +20,13 @@
           "PackageIdentifier": "BraveSoftware.BraveBrowser"
         },
         {
-          "PackageIdentifier": "Canonical.Ubuntu"
+          "PackageIdentifier": "Figma.Figma"
         },
         {
           "PackageIdentifier": "Mozilla.Firefox.DeveloperEdition"
+        },
+        {
+          "PackageIdentifier": "Fork.Fork"
         },
         {
           "PackageIdentifier": "GitHub.GitHubDesktop"
@@ -26,13 +35,16 @@
           "PackageIdentifier": "Git.Git"
         },
         {
+          "PackageIdentifier": "Google.Chrome"
+        },
+        {
           "PackageIdentifier": "Microsoft.Edge"
         },
         {
           "PackageIdentifier": "Microsoft.EdgeWebView2Runtime"
         },
         {
-          "PackageIdentifier": "Microsoft.WingetCreate"
+          "PackageIdentifier": "Microsoft.PowerShell"
         },
         {
           "PackageIdentifier": "Microsoft.WindowsTerminal"
@@ -44,13 +56,37 @@
           "PackageIdentifier": "Postman.Postman"
         },
         {
+          "PackageIdentifier": "WinDirStat.WinDirStat"
+        },
+        {
           "PackageIdentifier": "ApacheFriends.Xampp"
+        },
+        {
+          "PackageIdentifier": "Microsoft.dotnet"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsSDK"
+        },
+        {
+          "PackageIdentifier": "Python.Python.3"
+        },
+        {
+          "PackageIdentifier": "Microsoft.dotnetRuntime.3-x64"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsSDK"
+        },
+        {
+          "PackageIdentifier": "Microsoft.CLRTypesSQLServer.2019"
+        },
+        {
+          "PackageIdentifier": "Microsoft.dotnet"
         },
         {
           "PackageIdentifier": "OpenJS.NodeJS.LTS"
         },
         {
-          "PackageIdentifier": "Microsoft.dotnetRuntime.5-x64"
+          "PackageIdentifier": "GitHub.cli"
         },
         {
           "PackageIdentifier": "Microsoft.WindowsADK"
@@ -59,10 +95,10 @@
           "PackageIdentifier": "Microsoft.VisualStudioCode"
         },
         {
-          "PackageIdentifier": "GitHub.cli"
+          "PackageIdentifier": "Microsoft.WebDeploy"
         },
         {
-          "PackageIdentifier": "Microsoft.dotnetRuntime.3-x64"
+          "PackageIdentifier": "Microsoft.dotnetRuntime.5-x64"
         }
       ],
       "SourceDetails": {
