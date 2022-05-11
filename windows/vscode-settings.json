@@ -1,37 +1,29 @@
 {
-  "editor.suggestSelection": "first",
-  "tabnine.experimentalAutoImports": true,
-  "editor.inlineSuggest.enabled": true,
-  "github.copilot.enable": {
-    "*": false,
-    "yaml": false,
-    "plaintext": true,
-    "markdown": false
-  },
-  "vsicons.dontShowNewVersionMessage": true,
-  "editor.fontFamily": "hack",
-  "editor.bracketPairColorization.enabled": true,
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "git.autofetch": true,
-  "editor.linkedEditing": true,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "editor.cursorBlinking": "expand",
-  "git.confirmSync": true,
-  "editor.wordWrap": "on",
-  "svelte.enable-ts-plugin": true,
-  "workbench.iconTheme": "vscode-icons",
-  "terminal.integrated.defaultProfile.windows": "Command Prompt",
-  "workbench.colorTheme": "GitHub Dark",
   "[python]": {
     "editor.defaultFormatter": "ms-python.python"
   },
-  "terminal.integrated.cursorStyle": "line",
-  "css.lint.unknownAtRules": "ignore",
-  "terminal.integrated.autoReplies": {
-    "Terminate batch job (Y/N)?": "Y\r"
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.fontFamily": "hack nerd font",
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "[php]": {
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
   },
-  "editor.fontSize": 15,
+  "css.lint.unknownAtRules": "ignore",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "git.autofetch": true,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": []
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "editor.inlineSuggest.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.wordWrap": "on",
+  "editor.guides.highlightActiveIndentation": "always",
   "snyk.yesWelcomeNotification": false,
-  "python.formatting.provider": "black"
+  "[rust]": {
+    "editor.defaultFormatter": "matklad.rust-analyzer",
+    "editor.inlayHints.enabled": "off"
+  }
 }
