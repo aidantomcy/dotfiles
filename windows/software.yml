@@ -2,17 +2,22 @@ apps:
   - 7-Zip
   - Anaconda3
   - Brave
+  - Figma
   - Firefox Developer Edition
   - Git
   - GitHub Desktop
+  - Google Chrome
+  - Microsoft Office
   - Node.js
   - Postman
   - PowerShell
   - Spotify
   - Sublime Text
   - Windows Terminal
-  - Ubuntu (WSL)
   - Visual Studio Code
+  - Visual Studio
+  - Fork
+  - Xampp
 brave_extensions:
   - Code Grepper
   - uBlock Origin
@@ -20,6 +25,10 @@ brave_extensions:
   - Dark Reader
   - VisBug
   - Enhanced GitHub
+  - JSON Viewer
+  - WhatRuns
+  - Live Server
+  - Picture in Picture
 firefox_extensions:
   - Code Grepper
   - uBlock Origin
@@ -32,24 +41,32 @@ vscode_extensions:
   - EditorConfig
   - ES7+ React/Redux/React-Native snippets
   - ESLint
-  - GitHub Copilot
-  - GitHub Theme
   - GitLens
   - JavaScript (ES6) code snippets
   - Prettier
   - Python
-  - Remote - WSL
   - Snyk Security
-  - TabNine
+  - Tailwind CSS Intellisense
   - vscode-icons
+  - rust-analyzer
+  - Text Pastry
+  - PHP Server
+  - PHP Inteliphense
+  - PHP Namespace Resolver
 sublime_text_plugins:
+  - Anaconda
   - Babel
+  - BracketHighlighter
   - Color Highlight
   - DotENV
   - EditorConfig
   - Emmet
   - FileIcons
   - JSPrettier
+  - JS Snippts
   - SublimeLinter
   - Quokka
   - TabNine
+  - Terminus
+  - Sidebar Enhancements
+  - SublimeLinter-pyflakes
