@@ -2,7 +2,7 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.python"
   },
-  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.fontFamily": "hack nerd font",
   "python.formatting.provider": "black",
   "editor.formatOnSave": true,
@@ -25,5 +25,24 @@
   "[rust]": {
     "editor.defaultFormatter": "matklad.rust-analyzer",
     "editor.inlayHints.enabled": "off"
-  }
+  },
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash",
+      "icon": "terminal-bash"
+    }
+  },
 }
+
