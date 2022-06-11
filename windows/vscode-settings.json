@@ -22,10 +22,6 @@
   "editor.wordWrap": "on",
   "editor.guides.highlightActiveIndentation": "always",
   "snyk.yesWelcomeNotification": false,
-  "[rust]": {
-    "editor.defaultFormatter": "matklad.rust-analyzer",
-    "editor.inlayHints.enabled": "off"
-  },
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
       "source": "PowerShell",
@@ -44,5 +40,17 @@
       "icon": "terminal-bash"
     }
   },
+  "tabnine.experimentalAutoImports": true,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.inlayHints.enabled": "off"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "vim.useSystemClipboard": true,
+  "vim.overrideCopy": false,
+  "terminal.integrated.fontFamily": "hack nerd font"
 }
-
