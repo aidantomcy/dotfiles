@@ -1,17 +1,11 @@
 {
   "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
-  "CreationDate": "2022-05-11T20:11:02.298-00:00",
+  "CreationDate": "2022-06-11T20:30:01.840-00:00",
   "Sources": [
     {
       "Packages": [
         {
-          "PackageIdentifier": "Microsoft.VisualStudio.2022.BuildTools"
-        },
-        {
           "PackageIdentifier": "7zip.7zip"
-        },
-        {
-          "PackageIdentifier": "Microsoft.VisualStudio.2022.Community"
         },
         {
           "PackageIdentifier": "Anaconda.Anaconda3"
@@ -56,37 +50,40 @@
           "PackageIdentifier": "Postman.Postman"
         },
         {
+          "PackageIdentifier": "JetBrains.PyCharm.Community"
+        },
+        {
           "PackageIdentifier": "WinDirStat.WinDirStat"
+        },
+        {
+          "PackageIdentifier": "Zeit.Hyper"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudio.2022.BuildTools"
         },
         {
           "PackageIdentifier": "ApacheFriends.Xampp"
         },
         {
-          "PackageIdentifier": "Microsoft.dotnet"
-        },
-        {
-          "PackageIdentifier": "Microsoft.WindowsSDK"
+          "PackageIdentifier": "Microsoft.WebDeploy"
         },
         {
           "PackageIdentifier": "Python.Python.3"
         },
         {
-          "PackageIdentifier": "Microsoft.dotnetRuntime.3-x64"
+          "PackageIdentifier": "GitHub.cli"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VC++2015-2022Redist-x64"
         },
         {
           "PackageIdentifier": "Microsoft.WindowsSDK"
         },
         {
-          "PackageIdentifier": "Microsoft.CLRTypesSQLServer.2019"
-        },
-        {
-          "PackageIdentifier": "Microsoft.dotnet"
-        },
-        {
           "PackageIdentifier": "OpenJS.NodeJS.LTS"
         },
         {
-          "PackageIdentifier": "GitHub.cli"
+          "PackageIdentifier": "Microsoft.DotNet.SDK.6"
         },
         {
           "PackageIdentifier": "Microsoft.WindowsADK"
@@ -95,10 +92,10 @@
           "PackageIdentifier": "Microsoft.VisualStudioCode"
         },
         {
-          "PackageIdentifier": "Microsoft.WebDeploy"
+          "PackageIdentifier": "Microsoft.VC++2015-2022Redist-x86"
         },
         {
-          "PackageIdentifier": "Microsoft.dotnetRuntime.5-x64"
+          "PackageIdentifier": "GoLang.Go"
         }
       ],
       "SourceDetails": {
