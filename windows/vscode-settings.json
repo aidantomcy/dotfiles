@@ -2,8 +2,8 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.python"
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "editor.fontFamily": "hack nerd font",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.fontFamily": "hack",
   "python.formatting.provider": "black",
   "editor.formatOnSave": true,
   "[php]": {
